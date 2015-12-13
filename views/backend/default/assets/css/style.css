@@ -1,0 +1,14 @@
+.adminpadding {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.sidebarpadding {
+  padding-top: 40px;
+}
+.footerpadding {
+  padding-bottom: 30px;
+}
+footer p{
+    clear:left;
+    margin-bottom:0
+}
